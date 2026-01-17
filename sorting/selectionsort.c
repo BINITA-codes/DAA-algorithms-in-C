@@ -1,3 +1,10 @@
+//Selection Sort
+//Design and Analysis of Algorithms(DAA)
+//time Complexity
+//Best Case:O(n^2)
+//Average Case: O(n^2)
+//Worst case:O(n^2)
+//Space Complexity:O(1)
 #include<stdio.h>
 #include<stdlib.h>
 void main()
@@ -46,3 +53,4 @@ void writear(int *a,int n)
 		for(i=1; i<=n; i++)
 			printf("%d\t",a[i]);
 }
+
