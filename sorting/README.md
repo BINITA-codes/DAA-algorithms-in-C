@@ -7,4 +7,4 @@ Insertion sort
 Quick sort
 
 programs are written for learning and practice.
-#Dry run images are provided in the 'dry-runs' folder.
+
